@@ -1,0 +1,6 @@
+{
+ "port": 5001,
+ "name": "drive",
+ "secret": "mysecretdrive",
+ "mongoURI": "mongodb+srv://USERNAME:PASSWORD@cluster0-ns6cm.mongodb.net/rest?retryWrites=true&w=majority"
+}
